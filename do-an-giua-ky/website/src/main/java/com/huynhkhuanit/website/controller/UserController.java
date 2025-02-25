@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 public class UserController {
     @GetMapping("/users")
     public String getUsers(Model model) {
-        model.addAttribute("message", "Xin chào từ Spring Boot!");
+        model.addAttribute("message", "Xin ");
         return "users"; // Trả về file users.html trong templates/
     }
 }
