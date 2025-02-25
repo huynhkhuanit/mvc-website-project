@@ -1,7 +1,9 @@
 # CÁCH CÀI ĐẶT JAVA + SPRING BOOT 🚀
 
 > • Khi lập trình website với mô hình MVC (Model - View - Controller) có rất nhiều ngôn ngữ + framework có thể áp dụng và thực hiện 🚀
+
 > • Thế nhưng mình sẽ sử dụng một ngôn ngữ dễ dàng + framework hỗ trợ mạnh mẽ thì mình đề xuất ngôn ngữ Java + Spring Boot thiết kế front-end sử dụng các thư viện (library) như: Tailwind, Boostrap và Thymeleaf để dựng phần front-end và back-end sử dụng Spring Boot ✅
+
 > • Dưới đây là cách thực hiện mô hình MVC với Java Spring Boot. ⭐
 
 ---
