@@ -106,6 +106,7 @@
         - **H2 Database (tùy chọn)**: Dùng thử cơ sở dữ liệu in-memory.
     - Chọn thư mục lưu:
       ![Hình ảnh 16](./resources/image%20copy%2016.png)
+      
     - Các bạn thu được cấu trúc thư mục như hình:
       ![Hình ảnh 17](./resources/image%20copy%2017.png)
 
