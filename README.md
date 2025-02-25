@@ -60,7 +60,9 @@
 
 > 🚨 Các bạn còn nhớ khi setup **PATH** có một đường dân **PATH** như sau:
 > ![Hình ảnh 9](./resources/image%20copy%209.png)
+
 > 🚨 Các bạn để ý đường dẫn Oracle của Java trên cùng nhé! Nó lưu trữ JDK hiện tại là 23 cho nên gây ra lỗi hiện tại! Cùng fix nào ✅
+
 > 🚀 Chỉ cần **MOVE UP** **`%JAVA_HOME%\bin`** lên cao hơn Oracle của Java là được nhé!
 > ![Hình ảnh 12](./resources/image%20copy%2012.png)
 
